@@ -1,1 +1,1 @@
-# safirakemaladewi-Prediction-of-Apartment-Prices-in-Daegu
+# Prediction-of-Apartment-Prices-in-Daegu
